@@ -21,9 +21,9 @@
     "typescript": "4.9.3"
   },
   "devDependencies": {
-    "@vanilla-extract/next-plugin": "2.1.1"
+    "@vanilla-extract/next-plugin": "^2.1.1"
   },
   "resolutions": {
-    "@vanilla-extract/next-plugin@2.1.1": "patch:@vanilla-extract/next-plugin@npm%3A2.1.1#./.yarn/patches/@vanilla-extract-next-plugin-npm-2.1.1-a1610a7f72.patch"
+    "@vanilla-extract/next-plugin@^2.1.1": "patch:@vanilla-extract/next-plugin@npm%3A2.1.1#./.yarn/patches/@vanilla-extract-next-plugin-npm-2.1.1-a1610a7f72.patch"
   }
 }
