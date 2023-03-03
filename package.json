@@ -15,7 +15,7 @@
     "@vanilla-extract/css": "^1.9.2",
     "eslint": "8.29.0",
     "eslint-config-next": "13.0.6",
-    "next": "13.2.1",
+    "next": "13.2.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "4.9.3"
@@ -24,6 +24,7 @@
     "@vanilla-extract/next-plugin": "2.1.1"
   },
   "resolutions": {
-    "@vanilla-extract/next-plugin@2.1.1": "patch:@vanilla-extract/next-plugin@npm%3A2.1.1#./.yarn/patches/@vanilla-extract-next-plugin-npm-2.1.1-a1610a7f72.patch"
+    "@vanilla-extract/next-plugin@2.1.1": "patch:@vanilla-extract/next-plugin@npm%3A2.1.1#./.yarn/patches/@vanilla-extract-next-plugin-npm-2.1.1-a1610a7f72.patch",
+    "next@13.2.3": "patch:next@npm%3A13.2.3#./.yarn/patches/next-npm-13.2.3-5bd86c8056.patch"
   }
 }

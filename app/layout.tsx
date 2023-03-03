@@ -5,10 +5,16 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <head />
+      <head>
+        <meta content="width=device-width, initial-scale=1" name="viewport" />
+      </head>
       <body>
         {children}
       </body>
     </html>
   )
+}
+
+export const metadata = {
+  title: 'My Title',
 }
